@@ -6,6 +6,6 @@
 
 Framework ini memakai Framework Laravel:
 
--   Versi Framework - ["laravel/framework": "^7.29"](#)
+-   Versi Framework - ["laravel/framework": "^7.29"](https://laravel.com/docs/7.x)
 -   API - [Query Builder](#).
 -   Data Base - [SQL](#).
